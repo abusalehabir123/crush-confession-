@@ -13,5 +13,5 @@ noButton.addEventListener('mouseover', () => {
   noButton.style.top = `${randomY}px`;
 });
 document.getElementById('yes-btn').addEventListener('click', () => {
-  document.body.innerHTML = '<h1>🎉 Thank you, you are the best 🥰</h1>';
+  document.body.innerHTML = '<h1>🎉 see you soon sunshine, you are the best 🥰</h1>';
 });
